@@ -1,0 +1,5 @@
+#Web scraping exercise to access ted talk transcripts (requires a few installs):
+https://data36.com/web-scraping-tutorial-episode-1-scraping-a-webpage-with-bash/
+
+#Software carpentries lesson on shell ops
+https://swcarpentry.github.io/shell-novice/
