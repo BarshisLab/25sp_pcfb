@@ -33,7 +33,7 @@ to work with data on your laptop.
 
 - [BBedit](https://www.barebones.com/products/bbedit/)
 
-- Scroll down and follow instructions to install [Git for MacOS] (https://carpentries.github.io/workshop-template/), and [Python for MacOS](https://carpentries.github.io/workshop-template/)
+- Scroll down and follow instructions to install [Git for MacOS](https://carpentries.github.io/workshop-template/), and [Python for MacOS](https://carpentries.github.io/workshop-template/)
 
 ### For Microsoft Windows:
 
