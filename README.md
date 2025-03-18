@@ -57,3 +57,5 @@ the license of the source archive. All other original content is distributed
 under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported 
 License](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US).
 
+## Class Recordings
+  - [Class#01](https://odumedia.mediaspace.kaltura.com/media/25Sp_PCfB_Class01/1_3uk8nzht)
