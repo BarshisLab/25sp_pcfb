@@ -59,3 +59,4 @@ License](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US).
 
 ## Class Recordings
   - [Class#01](https://odumedia.mediaspace.kaltura.com/media/25Sp_PCfB_Class01/1_3uk8nzht)
+  - [Class#02](https://odumedia.mediaspace.kaltura.com/media/25Sp_PCfB_Class02/1_m6a193dn)
