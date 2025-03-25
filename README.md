@@ -1,3 +1,8 @@
+## Assignments
+  - [Assignment04_TextandCurlinShell.txt](https://github.com/BarshisLab/25sp_pcfb/blob/main/assignments/Assignment04_TextandCurlinShell.txt) is due by 3pm Wed, 26-Mar
+  - [Assignment02_BirdRegEx.txt](https://github.com/BarshisLab/25sp_pcfb/blob/main/assignments/Assignment02_BirdRegEx.txt) and [Assignment03_ShellOps.txt](https://github.com/BarshisLab/25sp_pcfb/blob/main/assignments/Assignment03_ShellOps.txt) are due by 3pm Mon, 24-Mar
+  - [Assignment01_BirdRegEx.txt](https://github.com/BarshisLab/25sp_pcfb/blob/main/assignments/Assignment01_BirdRegEx.txt) is due by 3pm Wed, 19-Mar
+
 # Practical Computing for Biologists SP25
 
 This repository contains the source code, datasets, and documentation for 
@@ -60,3 +65,4 @@ License](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US).
 ## Class Recordings
   - [Class#01](https://odumedia.mediaspace.kaltura.com/media/25Sp_PCfB_Class01/1_3uk8nzht)
   - [Class#02](https://odumedia.mediaspace.kaltura.com/media/25Sp_PCfB_Class02/1_m6a193dn)
+  - [Class#03](https://odumedia.mediaspace.kaltura.com/media/25_Sp_PCfBClass03/1_lmrveuvp)
