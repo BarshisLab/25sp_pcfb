@@ -1,5 +1,6 @@
 ## Assignments
-  - [Assignment05_CurlSScript.txt](https://github.com/BarshisLab/25sp_pcfb/blob/main/assignments/Assignment05_CurlSScript.txt)
+  - [Assignment07_BasicPython.txt](https://github.com/BarshisLab/25sp_pcfb/blob/main/assignments/Assignment07_BasicPython.txt) is due by 3pm Wed, 2-Apr
+  - [Assignment05_CurlSScript.txt](https://github.com/BarshisLab/25sp_pcfb/blob/main/assignments/Assignment05_CurlSScript.txt) is due by 3pm Mon, 31-Mar
   - [Assignment04_TextandCurlinShell.txt](https://github.com/BarshisLab/25sp_pcfb/blob/main/assignments/Assignment04_TextandCurlinShell.txt) is due by 3pm Wed, 26-Mar
   - [Assignment02_BirdRegEx.txt](https://github.com/BarshisLab/25sp_pcfb/blob/main/assignments/Assignment02_BirdRegEx.txt) and [Assignment03_ShellOps.txt](https://github.com/BarshisLab/25sp_pcfb/blob/main/assignments/Assignment03_ShellOps.txt) are due by 3pm Mon, 24-Mar
   - [Assignment01_BirdRegEx.txt](https://github.com/BarshisLab/25sp_pcfb/blob/main/assignments/Assignment01_BirdRegEx.txt) is due by 3pm Wed, 19-Mar
