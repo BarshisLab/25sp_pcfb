@@ -1,5 +1,6 @@
 Day6
 -HW 7
+-git clone, git pull
 -Decisions and loops
 	-the python interactive prompt
 	-examples
