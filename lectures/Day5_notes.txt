@@ -1,0 +1,13 @@
+Day5
+-HW 5
+-Lecture5
+-syllabus
+-Jupyter, ipython, interactive prompts
+-Beginning Python Programming
+	-python vs. perl
+	-which python
+	-env
+	-variable names
+	-work through chapter
+-break
+-HW 7
