@@ -1,3 +1,4 @@
+## Hello world
 ## Assignments
   - [Assignment07_BasicPython.txt](https://github.com/BarshisLab/25sp_pcfb/blob/main/assignments/Assignment07_BasicPython.txt) is due by 3pm Wed, 2-Apr
   - [Assignment05_CurlSScript.txt](https://github.com/BarshisLab/25sp_pcfb/blob/main/assignments/Assignment05_CurlSScript.txt) is due by 3pm Mon, 31-Mar
