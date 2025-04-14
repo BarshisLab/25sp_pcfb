@@ -78,3 +78,4 @@ License](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US).
   - [Class#06](https://odumedia.mediaspace.kaltura.com/media/25Sp_PCfB_Class06/1_yyd2o87y)
   - [Class#07](https://odumedia.mediaspace.kaltura.com/media/25Sp_PCfB_Class07/1_cgf50wv0)
   - [Class#08](https://odumedia.mediaspace.kaltura.com/media/25Sp_PCfB_Class08/1_phesei0j)
+  - [Class#09](https://odumedia.mediaspace.kaltura.com/media/25Sp_PCfB_Class09/1_0crblmy2)
