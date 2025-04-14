@@ -1,4 +1,5 @@
 ## Assignments
+  - [Assignment09_PythonMedium.txt](https://github.com/BarshisLab/25sp_pcfb/blob/main/assignments/Assignment09_PythonMedium.txt) is due by 3pm Wed, 9-Apr
   - [Assignment08_PythonLoops.txt](https://github.com/BarshisLab/25sp_pcfb/blob/main/assignments/Assignment08_PythonLoops.txt) is due by 3pm Mon, 7-Apr
   - [Assignment07_BasicPython.txt](https://github.com/BarshisLab/25sp_pcfb/blob/main/assignments/Assignment07_BasicPython.txt) is due by 3pm Wed, 2-Apr
   - [Assignment05_CurlSScript.txt](https://github.com/BarshisLab/25sp_pcfb/blob/main/assignments/Assignment05_CurlSScript.txt) is due by 3pm Mon, 31-Mar
