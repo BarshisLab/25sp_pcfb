@@ -25,6 +25,9 @@ Here are some of the appendices from the book, which summarize frequently used
 commands:
 [Appendices](http://practicalcomputing.org/files/PCfB_Appendices.pdf)
 
+## Hackathons
+  - [Hackathon1_padlet](https://padlet.com/22t8b5f3/hackathon1_elk_isotope_data-3dlbnhhzt9fycmtc)
+
 ## Pre-class to-do's
 
   - Install the software mentioned below
