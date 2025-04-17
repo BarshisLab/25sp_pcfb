@@ -26,6 +26,7 @@ commands:
 [Appendices](http://practicalcomputing.org/files/PCfB_Appendices.pdf)
 
 ## Hackathons
+  - [Hackathon2_padlet](https://padlet.com/22t8b5f3/hackathon2-m14u2517h0i1eg1f)
   - [Hackathon1_padlet](https://padlet.com/22t8b5f3/hackathon1_elk_isotope_data-3dlbnhhzt9fycmtc)
 
 ## Pre-class to-do's
